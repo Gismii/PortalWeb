@@ -829,7 +829,7 @@ top: 920px;
 -moz-transition: all 0.5s;
 -webkit-transition: all 0.5s;
 transition: all 0.5s;
-border: 35px solid #fa05a0;
+border: 35px solid #f81da844;
 border-radius: 35px;
 animation: tremer .9s;
 animation-iteration-count:infinite;
@@ -865,7 +865,7 @@ top: 920px;
 -webkit-transition: all 0.5s;
 transition: all 0.5s;
 border-color: black;
-border: 35px solid #47f708;
+border: 35px solid #70f73f5c;
 border-radius: 35px;
 animation: tremer .9s;
 animation-iteration-count:infinite;
@@ -899,7 +899,7 @@ animation-iteration-count:infinite;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
      transition: all 0.5s;
-     border: 35px solid #f9e904;
+     border: 35px solid #fff34466;
      border-radius: 35px;
      animation: tremer .9s;
      animation-iteration-count:infinite;
@@ -939,7 +939,7 @@ animation-iteration-count:infinite;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    border: 35px solid #fa0505ec;
+    border: 35px solid #fe2f2f6d;
     border-radius: 35px;
     animation: tremer .9s;
     animation-iteration-count:infinite;
@@ -977,7 +977,7 @@ animation-iteration-count:infinite;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
     border-color: black;
-    border: 35px solid #9302f4ea;
+    border: 35px solid #a723ff82;
     border-radius: 35px;
     animation: tremer .9s;
     animation-iteration-count:infinite;
@@ -1013,7 +1013,7 @@ animation-iteration-count:infinite;
         -moz-transition: all 0.5s;
         -webkit-transition: all 0.5s;
          transition: all 0.5s;
-         border: 35px solid #0493f9;
+         border: 35px solid #179cfa90;
          border-radius: 35px;
          animation: tremer .9s;
          animation-iteration-count:infinite;
@@ -1223,6 +1223,21 @@ flex-grow: 0;
     color: #061800;
        
 }
+
+footer{
+    width: 100%;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    color: #ffffff;
+    box-sizing: border-box;
+    position: absolute;
+    top: 3864px;
+}
+
+
 
 
 
