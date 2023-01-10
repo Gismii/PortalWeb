@@ -810,6 +810,14 @@ color: #061800;
 
 }
 
+#Pagina-de-contato{
+
+position: absolute;
+left: 140px;
+top: 900px;
+font-size: X-small;
+
+}
 
 .contactpageImg{
 
@@ -821,7 +829,7 @@ top: 920px;
 -moz-transition: all 0.5s;
 -webkit-transition: all 0.5s;
 transition: all 0.5s;
-border: 5px solid #fa05a0;
+border: 35px solid #fa05a0;
 border-radius: 35px;
 animation: tremer .9s;
 animation-iteration-count:infinite;
@@ -839,19 +847,25 @@ animation-iteration-count:infinite;
     animation: none;
   }
 
+#Pagina-web{
+position: absolute;
+left: 600px;
+top: 900px;
+font-size: x-small;
+
+  }
 .webpageImg{
 
 position: absolute;
 width: 170px;
 height: 150px;
 left: 559px;
-top: 928px;
+top: 920px;
 -moz-transition: all 0.5s;
 -webkit-transition: all 0.5s;
 transition: all 0.5s;
-border: 5px;
 border-color: black;
-border: 5px solid #47f708;
+border: 35px solid #47f708;
 border-radius: 35px;
 animation: tremer .9s;
 animation-iteration-count:infinite;
@@ -867,6 +881,13 @@ animation-iteration-count:infinite;
     animation: none;
 
 }
+#Landing-Page{
+    position: absolute;
+    font-size: x-small;
+    left: 1085px;
+    top: 900px;
+
+}
 
 .landingPage{
 
@@ -878,7 +899,7 @@ animation-iteration-count:infinite;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
      transition: all 0.5s;
-     border: 5px solid #f9e904;
+     border: 35px solid #f9e904;
      border-radius: 35px;
      animation: tremer .9s;
      animation-iteration-count:infinite;
@@ -899,6 +920,15 @@ animation-iteration-count:infinite;
 
 }
 
+#Banco-de-dados{
+
+    position: absolute;
+    font-size: x-small;
+    left: 230px;
+    top: 1230px;
+
+}
+
 .ba{
 
     position: absolute;
@@ -909,7 +939,7 @@ animation-iteration-count:infinite;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    border: 5px solid #fa0505ec;
+    border: 35px solid #fa0505ec;
     border-radius: 35px;
     animation: tremer .9s;
     animation-iteration-count:infinite;
@@ -926,6 +956,15 @@ animation-iteration-count:infinite;
         border-radius: 0%;
         animation: none;
       }
+
+      #CompraRegistro-domínio{
+
+    position: absolute;
+    left: 670px;
+    top: 1237px;
+    font-size: x-small;
+    
+    }
     
     .bo{
     
@@ -937,9 +976,8 @@ animation-iteration-count:infinite;
     -moz-transition: all 0.5s;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    border: 5px;
     border-color: black;
-    border: 5px solid #9302f4ea;
+    border: 35px solid #9302f4ea;
     border-radius: 35px;
     animation: tremer .9s;
     animation-iteration-count:infinite;
@@ -955,6 +993,15 @@ animation-iteration-count:infinite;
         animation: none;
     
     }
+
+    #emailM{
+
+        position: absolute;
+        left: 1170px;
+        top: 1237px;
+        font-size: x-small;
+
+    }
     
     .bu{
     
@@ -966,7 +1013,7 @@ animation-iteration-count:infinite;
         -moz-transition: all 0.5s;
         -webkit-transition: all 0.5s;
          transition: all 0.5s;
-         border: 5px solid #0493f9;
+         border: 35px solid #0493f9;
          border-radius: 35px;
          animation: tremer .9s;
          animation-iteration-count:infinite;
