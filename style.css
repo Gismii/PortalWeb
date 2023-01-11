@@ -792,7 +792,7 @@ top: 683px;
 }
 
 .Empresas-que-confiam{
-
+white-space: nowrap;
 position: absolute;
 width: 350.49px;
 height: 44.68px;
@@ -1113,7 +1113,7 @@ top: 2982px;
     width: 442px;
     height: 383px;
     left: 104px;
-    top: 3273px;
+    top: 3315px;
     
     background: url(image.png);
     border-radius: 44px;   
@@ -1157,7 +1157,7 @@ position: absolute;
 width: 573px;
 height: 168px;
 left: 670px;
-top: 3445px;
+top: 3400px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -1223,8 +1223,24 @@ flex-grow: 0;
     color: #061800;
        
 }
+#textFinaly{
+
+    position: absolute;
+    width: 573px;
+    height: 168px;
+    left: 670px;
+    top: 3750px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+
+}
 
 footer{
+    
     width: 100%;
     padding: 35px;
     display: flex;
